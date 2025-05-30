@@ -1,2 +1,2 @@
 # Un_Helsinki_FSO
-University of Helsinki Full Stack Open Course
+University of Helsinki  || Full Stack Open Course
